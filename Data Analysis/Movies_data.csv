@@ -1,0 +1,251 @@
+Sno.,Movie,Year,Genre,Rating,Time,Metascore,Director
+1,The Shawshank Redemption, 1994,Drama,9.3,142,82.0,Frank Darabont
+2,The Godfather, 1972,Crime,9.2,175,100.0,Francis Ford Coppola
+3,The Dark Knight, 2008,Action,9.0,152,84.0,Christopher Nolan
+4,Schindler's List, 1993,Biography,9.0,195,95.0,Steven Spielberg
+5,The Lord of the Rings: The Return of the King, 2003,Action,9.0,201,94.0,Peter Jackson
+6,12 Angry Men, 1957,Crime,9.0,96,97.0,Sidney Lumet
+7,The Godfather Part II, 1974,Crime,9.0,202,90.0,Francis Ford Coppola
+8,Pulp Fiction, 1994,Crime,8.9,154,95.0,Quentin Tarantino
+9,Fight Club, 1999,Drama,8.8,139,67.0,David Fincher
+10,Inception, 2010,Action,8.8,148,74.0,Christopher Nolan
+11,The Lord of the Rings: The Fellowship of the Ring, 2001,Action,8.8,178,92.0,Peter Jackson
+12,Forrest Gump, 1994,Drama,8.8,142,82.0,Robert Zemeckis
+13,"Il buono, il brutto, il cattivo", 1966,Adventure,8.8,161,90.0,Sergio Leone
+14,The Lord of the Rings: The Two Towers, 2002,Action,8.8,179,87.0,Peter Jackson
+15,Jai Bhim, 2021,Crime,8.8,164,,T.J. Gnanavel
+16,Spider-Man: Across the Spider-Verse, 2023,Animation,8.7,140,86.0,"Joaquim Dos Santos, "
+17,Interstellar, 2014,Adventure,8.7,169,74.0,Christopher Nolan
+18,Goodfellas, 1990,Biography,8.7,145,92.0,Martin Scorsese
+19,The Matrix, 1999,Action,8.7,136,73.0,"Lana Wachowski, "
+20,One Flew Over the Cuckoo's Nest, 1975,Drama,8.7,133,84.0,Milos Forman
+21,Star Wars: Episode V - The Empire Strikes Back, 1980,Action,8.7,124,82.0,Irvin Kershner
+22,The Silence of the Lambs, 1991,Crime,8.6,118,86.0,Jonathan Demme
+23,Se7en, 1995,Crime,8.6,127,65.0,David Fincher
+24,Saving Private Ryan, 1998,Drama,8.6,169,91.0,Steven Spielberg
+25,Star Wars, 1977,Action,8.6,121,90.0,George Lucas
+26,The Green Mile, 1999,Crime,8.6,189,61.0,Frank Darabont
+27,Sen to Chihiro no kamikakushi, 2001,Animation,8.6,125,96.0,Hayao Miyazaki
+28,Cidade de Deus, 2002,Crime,8.6,130,79.0,"Fernando Meirelles, "
+29,Terminator 2: Judgment Day, 1991,Action,8.6,137,75.0,James Cameron
+30,La vita è bella, 1997,Comedy,8.6,116,59.0,Roberto Benigni
+31,It's a Wonderful Life, 1946,Drama,8.6,130,89.0,Frank Capra
+32,Shichinin no samurai, 1954,Action,8.6,207,98.0,Akira Kurosawa
+33,Seppuku, 1962,Action,8.6,133,85.0,Masaki Kobayashi
+34,Oppenheimer, 2023,Biography,8.5,180,88.0,Christopher Nolan
+35,The Departed, 2006,Crime,8.5,151,85.0,Martin Scorsese
+36,Back to the Future, 1985,Adventure,8.5,116,87.0,Robert Zemeckis
+37,Gladiator, 2000,Action,8.5,155,67.0,Ridley Scott
+38,Alien, 1979,Horror,8.5,117,89.0,Ridley Scott
+39,Gisaengchung, 2019,Drama,8.5,132,96.0,Bong Joon Ho
+40,The Prestige, 2006,Drama,8.5,130,66.0,Christopher Nolan
+41,Django Unchained, 2012,Drama,8.5,165,81.0,Quentin Tarantino
+42,Psycho, 1960,Horror,8.5,109,97.0,Alfred Hitchcock
+43,Whiplash, 2014,Drama,8.5,106,89.0,Damien Chazelle
+44,Léon, 1994,Action,8.5,110,64.0,Luc Besson
+45,The Pianist, 2002,Biography,8.5,150,85.0,Roman Polanski
+46,The Usual Suspects, 1995,Crime,8.5,106,77.0,Bryan Singer
+47,The Lion King, 1994,Animation,8.5,88,88.0,"Roger Allers, "
+48,American History X, 1998,Crime,8.5,119,62.0,Tony Kaye
+49,The Intouchables, 2011,Biography,8.5,112,57.0,"Olivier Nakache, "
+50,Casablanca, 1942,Drama,8.5,102,100.0,Michael Curtiz
+51,Once Upon a Time in the West, 1968,Western,8.5,166,82.0,Sergio Leone
+52,Hotaru no haka, 1988,Animation,8.5,89,94.0,Isao Takahata
+53,Rear Window, 1954,Mystery,8.5,112,100.0,Alfred Hitchcock
+54,Nuovo Cinema Paradiso, 1988,Drama,8.5,155,80.0,Giuseppe Tornatore
+55,Modern Times, 1936,Comedy,8.5,87,96.0,Charles Chaplin
+56,City Lights, 1931,Comedy,8.5,87,99.0,Charles Chaplin
+57,The Shining, 1980,Drama,8.4,146,66.0,Stanley Kubrick
+58,Joker, 2019,Crime,8.4,122,59.0,Todd Phillips
+59,Avengers: Endgame, 2019,Action,8.4,181,78.0,"Anthony Russo, "
+60,Inglourious Basterds, 2009,Adventure,8.4,153,69.0,Quentin Tarantino
+61,Apocalypse Now, 1979,Drama,8.4,147,,Francis Ford Coppola
+62,Spider-Man: Into the Spider-Verse, 2018,Animation,8.4,117,94.0,"Bob Persichetti, "
+63,Coco, 2017,Animation,8.4,105,87.0,"Lee Unkrich, "
+64,Idi i smotri, 1985,Drama,8.4,142,81.0,Elem Klimov
+65,Oldeuboi, 2003,Action,8.4,101,78.0,Park Chan-wook
+66,Aliens, 1986,Action,8.4,137,84.0,James Cameron
+67,The Dark Knight Rises, 2012,Action,8.4,164,78.0,Christopher Nolan
+68,Memento, 2000,Mystery,8.4,113,83.0,Christopher Nolan
+69,Raiders of the Lost Ark, 1981,Action,8.4,115,86.0,Steven Spielberg
+70,Avengers: Infinity War, 2018,Action,8.4,149,68.0,"Anthony Russo, "
+71,Amadeus, 1984,Biography,8.4,160,87.0,Milos Forman
+72,Kimi no na wa., 2016,Animation,8.4,106,81.0,Makoto Shinkai
+73,3 Idiots, 2009,Comedy,8.4,170,67.0,Rajkumar Hirani
+74,WALL·E, 2008,Animation,8.4,98,95.0,Andrew Stanton
+75,The Lives of Others, 2006,Drama,8.4,137,89.0,Florian Henckel von Donnersmarck
+76,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, 1964,Comedy,8.4,95,97.0,Stanley Kubrick
+77,Capharnaüm, 2018,Drama,8.4,126,75.0,Nadine Labaki
+78,Das Boot, 1981,Drama,8.4,149,86.0,Wolfgang Petersen
+79,Sunset Blvd., 1950,Drama,8.4,110,94.0,Billy Wilder
+80,The Great Dictator, 1940,Comedy,8.4,125,90.0,Charles Chaplin
+81,Paths of Glory, 1957,Drama,8.4,88,76.0,Stanley Kubrick
+82,Witness for the Prosecution, 1957,Crime,8.4,116,,Billy Wilder
+83,Tengoku to jigoku, 1963,Crime,8.4,143,90.0,Akira Kurosawa
+84,Top Gun: Maverick, 2022,Action,8.3,130,78.0,Joseph Kosinski
+85,Heat, 1995,Action,8.3,170,76.0,Michael Mann
+86,American Beauty, 1999,Drama,8.3,122,84.0,Sam Mendes
+87,Good Will Hunting, 1997,Drama,8.3,126,70.0,Gus Van Sant
+88,Scarface, 1983,Crime,8.3,170,65.0,Brian De Palma
+89,Requiem for a Dream, 2000,Drama,8.3,102,71.0,Darren Aronofsky
+90,A Clockwork Orange, 1971,Crime,8.3,136,77.0,Stanley Kubrick
+91,Once Upon a Time in America, 1984,Crime,8.3,229,75.0,Sergio Leone
+92,Eternal Sunshine of the Spotless Mind, 2004,Drama,8.3,108,89.0,Michel Gondry
+93,2001: A Space Odyssey, 1968,Adventure,8.3,149,84.0,Stanley Kubrick
+94,Braveheart, 1995,Biography,8.3,178,68.0,Mel Gibson
+95,Jagten, 2012,Drama,8.3,115,77.0,Thomas Vinterberg
+96,Reservoir Dogs, 1992,Crime,8.3,99,81.0,Quentin Tarantino
+97,Toy Story, 1995,Animation,8.3,81,96.0,John Lasseter
+98,Full Metal Jacket, 1987,Drama,8.3,116,78.0,Stanley Kubrick
+99,Hamilton, 2020,Biography,8.3,160,88.0,Thomas Kail
+100,Incendies, 2010,Drama,8.3,131,80.0,Denis Villeneuve
+101,Up, 2009,Animation,8.3,96,88.0,"Pete Docter, "
+102,Lawrence of Arabia, 1962,Adventure,8.3,218,100.0,David Lean
+103,Star Wars: Episode VI - Return of the Jedi, 1983,Action,8.3,131,58.0,Richard Marquand
+104,Le fabuleux destin d'Amélie Poulain, 2001,Comedy,8.3,122,69.0,Jean-Pierre Jeunet
+105,Vertigo, 1958,Mystery,8.3,128,100.0,Alfred Hitchcock
+106,Mononoke-hime, 1997,Animation,8.3,134,76.0,Hayao Miyazaki
+107,Toy Story 3, 2010,Animation,8.3,103,92.0,Lee Unkrich
+108,Citizen Kane, 1941,Drama,8.3,119,100.0,Orson Welles
+109,North by Northwest, 1959,Action,8.3,136,98.0,Alfred Hitchcock
+110,Metropolis, 1927,Drama,8.3,153,98.0,Fritz Lang
+111,To Kill a Mockingbird, 1962,Crime,8.3,129,88.0,Robert Mulligan
+112,Singin' in the Rain, 1952,Comedy,8.3,103,,"Stanley Donen, "
+113,M - Eine Stadt sucht einen Mörder, 1931,Crime,8.3,117,99.0,Fritz Lang
+114,The Sting, 1973,Comedy,8.3,129,83.0,George Roy Hill
+115,The Apartment, 1960,Comedy,8.3,125,94.0,Billy Wilder
+116,Jodaeiye Nader az Simin, 2011,Drama,8.3,123,,Asghar Farhadi
+117,Ladri di biciclette, 1948,Drama,8.3,89,95.0,Vittorio De Sica
+118,Ikiru, 1952,Drama,8.3,143,92.0,Akira Kurosawa
+119,Judgment at Nuremberg, 1961,Drama,8.3,179,60.0,Stanley Kramer
+120,Double Indemnity, 1944,Crime,8.3,107,95.0,Billy Wilder
+121,Taare Zameen Par, 2007,Drama,8.3,162,,"Aamir Khan, "
+122,Dangal, 2016,Action,8.3,161,,Nitesh Tiwari
+123,The Wolf of Wall Street, 2013,Biography,8.2,180,75.0,Martin Scorsese
+124,The Thing, 1982,Horror,8.2,109,57.0,John Carpenter
+125,Spider-Man: No Way Home, 2021,Action,8.2,148,71.0,Jon Watts
+126,Taxi Driver, 1976,Crime,8.2,114,94.0,Martin Scorsese
+127,Shutter Island, 2010,Mystery,8.2,138,63.0,Martin Scorsese
+128,Jurassic Park, 1993,Action,8.2,127,68.0,Steven Spielberg
+129,No Country for Old Men, 2007,Crime,8.2,122,92.0,"Ethan Coen, "
+130,The Sixth Sense, 1999,Drama,8.2,107,64.0,M. Night Shyamalan
+131,There Will Be Blood, 2007,Drama,8.2,158,93.0,Paul Thomas Anderson
+132,Snatch, 2000,Comedy,8.2,104,55.0,Guy Ritchie
+133,Casino, 1995,Crime,8.2,178,73.0,Martin Scorsese
+134,Batman Begins, 2005,Action,8.2,140,70.0,Christopher Nolan
+135,The Truman Show, 1998,Comedy,8.2,103,90.0,Peter Weir
+136,The Great Escape, 1963,Adventure,8.2,172,86.0,John Sturges
+137,V for Vendetta, 2005,Action,8.2,132,62.0,James McTeigue
+138,Kill Bill: Vol. 1, 2003,Action,8.2,111,69.0,Quentin Tarantino
+139,Green Book, 2018,Biography,8.2,130,69.0,Peter Farrelly
+140,Hauru no ugoku shiro, 2004,Animation,8.2,119,82.0,Hayao Miyazaki
+141,Die Hard, 1988,Action,8.2,132,72.0,John McTiernan
+142,A Beautiful Mind, 2001,Biography,8.2,135,72.0,Ron Howard
+143,1917, 2019,Action,8.2,119,78.0,Sam Mendes
+144,Pan's Labyrinth, 2006,Drama,8.2,118,98.0,Guillermo del Toro
+145,Indiana Jones and the Last Crusade, 1989,Action,8.2,127,65.0,Steven Spielberg
+146,Finding Nemo, 2003,Animation,8.2,100,90.0,"Andrew Stanton, "
+147,L.A. Confidential, 1997,Crime,8.2,138,91.0,Curtis Hanson
+148,Gone with the Wind, 1939,Drama,8.2,238,97.0,"Victor Fleming, "
+149,Der Untergang, 2004,Biography,8.2,156,82.0,Oliver Hirschbiegel
+150,The Father, 2020,Drama,8.2,97,88.0,Florian Zeller
+151,Chinatown, 1974,Drama,8.2,130,92.0,Roman Polanski
+152,Unforgiven, 1992,Drama,8.2,130,85.0,Clint Eastwood
+153,Monty Python and the Holy Grail, 1975,Adventure,8.2,91,91.0,"Terry Gilliam, "
+154,El secreto de sus ojos, 2009,Drama,8.2,129,80.0,Juan José Campanella
+155,The Elephant Man, 1980,Biography,8.2,124,78.0,David Lynch
+156,Some Like It Hot, 1959,Comedy,8.2,121,98.0,Billy Wilder
+157,Ran, 1985,Action,8.2,160,97.0,Akira Kurosawa
+158,Klaus, 2019,Animation,8.2,96,65.0,"Sergio Pablos, "
+159,Per qualche dollaro in più, 1965,Drama,8.2,132,74.0,Sergio Leone
+160,Dial M for Murder, 1954,Crime,8.2,105,75.0,Alfred Hitchcock
+161,Rashômon, 1950,Crime,8.2,88,98.0,Akira Kurosawa
+162,All About Eve, 1950,Drama,8.2,138,98.0,Joseph L. Mankiewicz
+163,Yôjinbô, 1961,Action,8.2,110,93.0,Akira Kurosawa
+164,Bacheha-Ye aseman, 1997,Drama,8.2,89,77.0,Majid Majidi
+165,The Kid, 1921,Comedy,8.2,68,98.0,Charles Chaplin
+166,The Treasure of the Sierra Madre, 1948,Adventure,8.2,126,86.0,John Huston
+167,To Be or Not to Be, 1942,Comedy,8.2,99,85.0,Ernst Lubitsch
+168,Le salaire de la peur, 1953,Adventure,8.2,131,,Henri-Georges Clouzot
+169,Pather Panchali, 1955,Drama,8.2,125,,Satyajit Ray
+170,Sherlock Jr., 1924,Action,8.2,45,,Buster Keaton
+171,Babam ve Oglum, 2005,Drama,8.2,112,,Çagan Irmak
+172,The Exorcist, 1973,Horror,8.1,122,82.0,William Friedkin
+173,Gone Girl, 2014,Drama,8.1,149,79.0,David Fincher
+174,Prisoners, 2013,Crime,8.1,153,70.0,Denis Villeneuve
+175,Blade Runner, 1982,Action,8.1,117,84.0,Ridley Scott
+176,Mad Max: Fury Road, 2015,Action,8.1,120,90.0,George Miller
+177,Pirates of the Caribbean: The Curse of the Black Pearl, 2003,Action,8.1,143,63.0,Gore Verbinski
+178,Jaws, 1975,Adventure,8.1,124,87.0,Steven Spielberg
+179,The Big Lebowski, 1998,Comedy,8.1,117,71.0,"Joel Coen, "
+180,Harry Potter and the Deathly Hallows - Part 2, 2011,Adventure,8.1,130,85.0,David Yates
+181,Hacksaw Ridge, 2016,Biography,8.1,139,71.0,Mel Gibson
+182,Catch Me If You Can, 2002,Biography,8.1,141,75.0,Steven Spielberg
+183,Ratatouille, 2007,Animation,8.1,111,96.0,"Brad Bird, "
+184,Stand by Me, 1986,Adventure,8.1,89,75.0,Rob Reiner
+185,The Wizard of Oz, 1939,Adventure,8.1,102,92.0,"Victor Fleming, "
+186,Fargo, 1996,Crime,8.1,98,86.0,"Joel Coen, "
+187,The Grand Budapest Hotel, 2014,Adventure,8.1,99,88.0,Wes Anderson
+188,The Deer Hunter, 1978,Drama,8.1,183,86.0,Michael Cimino
+189,Into the Wild, 2007,Adventure,8.1,148,73.0,Sean Penn
+190,Ah-ga-ssi, 2016,Drama,8.1,145,85.0,Park Chan-wook
+191,The Terminator, 1984,Action,8.1,107,84.0,James Cameron
+192,Dead Poets Society, 1989,Comedy,8.1,128,79.0,Peter Weir
+193,Rocky, 1976,Drama,8.1,120,70.0,John G. Avildsen
+194,Ford v Ferrari, 2019,Action,8.1,152,81.0,James Mangold
+195,"Monsters, Inc.", 2001,Animation,8.1,92,79.0,"Pete Docter, "
+196,The Help, 2011,Drama,8.1,146,62.0,Tate Taylor
+197,Room, 2015,Drama,8.1,118,86.0,Lenny Abrahamson
+198,Trainspotting, 1996,Drama,8.1,93,83.0,Danny Boyle
+199,Inside Out, 2015,Animation,8.1,95,94.0,"Pete Docter, "
+200,Raging Bull, 1980,Biography,8.1,129,90.0,Martin Scorsese
+201,"Three Billboards Outside Ebbing, Missouri", 2017,Comedy,8.1,115,88.0,Martin McDonagh
+202,Barry Lyndon, 1975,Adventure,8.1,185,89.0,Stanley Kubrick
+203,Salinui chueok, 2003,Crime,8.1,131,82.0,Bong Joon Ho
+204,"Lock, Stock and Two Smoking Barrels", 1998,Action,8.1,107,66.0,Guy Ritchie
+205,Logan, 2017,Action,8.1,137,77.0,James Mangold
+206,The Sound of Music, 1965,Biography,8.1,172,63.0,Robert Wise
+207,Hachi: A Dog's Tale, 2009,Biography,8.1,93,93.0,Lasse Hallström
+208,Spotlight, 2015,Biography,8.1,129,71.0,Tom McCarthy
+209,Warrior, 2011,Action,8.1,140,77.0,Gavin O'Connor
+210,Before Sunrise, 1995,Drama,8.1,101,74.0,Richard Linklater
+211,Rush, 2013,Action,8.1,123,96.0,Ron Howard
+212,12 Years a Slave, 2013,Biography,8.1,134,92.0,Steve McQueen
+213,Platoon, 1986,Drama,8.1,120,75.0,Oliver Stone
+214,How to Train Your Dragon, 2010,Animation,8.1,98,86.0,"Dean DeBlois, "
+215,Tonari no Totoro, 1988,Animation,8.1,86,72.0,Hayao Miyazaki
+216,Gran Torino, 2008,Drama,8.1,116,,Clint Eastwood
+217,Ben-Hur, 1959,Adventure,8.1,212,90.0,William Wyler
+218,La haine, 1995,Crime,8.1,98,86.0,Mathieu Kassovitz
+219,Million Dollar Baby, 2004,Drama,8.1,132,,Clint Eastwood
+220,The Bridge on the River Kwai, 1957,Adventure,8.1,161,87.0,David Lean
+221,Relatos salvajes, 2014,Comedy,8.1,122,77.0,Damián Szifron
+222,Det sjunde inseglet, 1957,Drama,8.1,96,88.0,Ingmar Bergman
+223,In the Name of the Father, 1993,Biography,8.1,133,84.0,Jim Sheridan
+224,Cool Hand Luke, 1967,Crime,8.1,127,92.0,Stuart Rosenberg
+225,The Iron Giant, 1999,Animation,8.1,86,85.0,Brad Bird
+226,Before Sunset, 2004,Drama,8.1,80,91.0,Richard Linklater
+227,Network, 1976,Drama,8.1,121,83.0,Sidney Lumet
+228,Amores perros, 2000,Drama,8.1,154,83.0,Alejandro G. Iñárritu
+229,Rebecca, 1940,Drama,8.1,130,86.0,Alfred Hitchcock
+230,Persona, 1966,Drama,8.1,85,86.0,Ingmar Bergman
+231,On the Waterfront, 1954,Crime,8.1,108,91.0,Elia Kazan
+232,Hotel Rwanda, 2004,Biography,8.1,121,79.0,Terry George
+233,The Third Man, 1949,Film-Noir,8.1,104,97.0,Carol Reed
+234,It Happened One Night, 1934,Comedy,8.1,105,87.0,Frank Capra
+235,The Best Years of Our Lives, 1946,Drama,8.1,170,93.0,William Wyler
+236,Mary and Max., 2009,Animation,8.1,92,100.0,Adam Elliot
+237,Tôkyô monogatari, 1953,Drama,8.1,136,96.0,Yasujirô Ozu
+238,The Grapes of Wrath, 1940,Drama,8.1,129,,John Ford
+239,The General, 1926,Action,8.1,78,,"Clyde Bruckman, "
+240,Les quatre cents coups, 1959,Crime,8.1,99,96.0,François Truffaut
+241,The Gold Rush, 1925,Adventure,8.1,95,73.0,Charles Chaplin
+242,La battaglia di Algeri, 1966,Drama,8.1,121,88.0,Gillo Pontecorvo
+243,Mr. Smith Goes to Washington, 1939,Comedy,8.1,129,98.0,Frank Capra
+244,Smultronstället, 1957,Drama,8.1,91,,Ingmar Bergman
+245,La passion de Jeanne d'Arc, 1928,Biography,8.1,110,,Carl Theodor Dreyer
+246,Dances with Wolves, 1990,Adventure,8.0,181,72.0,Kevin Costner
+247,The Incredibles, 2004,Animation,8.0,115,90.0,Brad Bird
+248,Groundhog Day, 1993,Comedy,8.0,101,72.0,Harold Ramis
+249,Aladdin, 1992,Animation,8.0,90,86.0,"Ron Clements, "
+250,Life of Brian, 1979,Comedy,8.0,94,77.0,Terry Jones
